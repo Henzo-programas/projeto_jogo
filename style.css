@@ -1,1 +1,57 @@
+body{
+  text-align:center;
+  background-color:#011f3f;
+ 
+}
 
+#titulo{
+  font-family:"Press start 2P",cursive;
+  font-size:3rem;
+  margin:5%;
+  color:yellow;
+}
+
+.container {
+  display: block;
+  width:50%;
+  margin:auto;
+}
+
+.botao{
+  margin:25px;
+  display:inline-block;
+  height:200px;
+  width:200px;
+   border:10px solid black;
+  border-radius:20%;
+}
+ 
+.verde{
+  background-color:green;
+}
+
+
+.vermelho{
+  background-color:red;
+}
+
+
+.amarelo{
+  background-color:yellow;
+}
+
+
+.azul{
+  background-color:blue;
+}
+
+.gamer-over{
+    background-color:red;
+  opacity: 0.8;
+}
+
+.pressionado{
+  box-shadow : 0 0 20px whiter;
+  background-color: grey;
+  
+}
